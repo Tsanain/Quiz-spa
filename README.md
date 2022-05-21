@@ -2,8 +2,8 @@
 
 ## Dependencies
 
-NPM.
-Create-React-app. 
+1. NPM.
+2. Create-React-app
 
 ## Installation
 
