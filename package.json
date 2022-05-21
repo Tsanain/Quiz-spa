@@ -1,5 +1,6 @@
 {
   "name": "quiz",
+  "homepage": "https://tsanain.github.io/Quiz-spa",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
