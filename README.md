@@ -1,11 +1,11 @@
-#Quiz-spa: This project is a single page application for a quiz platform made in reactjs.
+# Quiz-spa: This project is a single page application for a quiz platform made in reactjs.
 
-##Dependencies
+## Dependencies
 
 NPM.
 Create-React-app. 
 
-##Installation
+## Installation
 
 1. Install depedencies.
 2. Open folder in terminal 
